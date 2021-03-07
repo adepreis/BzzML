@@ -1,14 +1,16 @@
-# bzz-ml-project
+# BzzML
 
-ML project - Polytech ET4 IT - Noted for S8 (2020-2021)
+"Introduction to machine learning" project - Polytech ET4 IT - Noted for S8 (2020-2021)
 
-![Illustration : application preview](./doc/screenshot.png)
+![Illustration : application preview](./doc/pollenCaracterization.jpg)
 
 ## Asked work
 
-- [Project subject](./doc/subject.pdf) :fr:
+- [Working guide for the project](./doc/guide-projet.pdf) :fr:
 
-All remaining bugs and unimplemented features are listed [here](https://github.com/adepreis/bzz-ml-project/issues).
+The subject has been chosen by the students.
+
+All remaining bugs are listed [here](https://github.com/adepreis/BzzML/issues).
 
 ## Getting Started
 
@@ -18,11 +20,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 Things you need to install the project :
 
-- [Jupyter](https://jupyter.org/)
-- [Python 3](https://www.python.org/downloads/)
+- [Jupyter](https://jupyter.org)
+- [Python 3](https://www.python.org/downloads)
 	- [Scikit-Learn](http://scikit-learn.org) library
 	- [NumPy](http://numpy.org) library
 	- [Matplotlib](http://matplotlib.org) library
+	<!--
+	- [PIL](https://pypi.org/project/Pillow) library 
+	??? -->
 
 ### Running
 
@@ -30,9 +35,9 @@ Here are some instructions on how to get the development env running.
 
 First, clone this repository with the following command :
 
-	`git clone https://github.com/adepreis/bzz-ml-project`
+	`git clone https://github.com/adepreis/BzzML`
 
-Then, after moving into the `/bzz-ml-project` folder just created, start Jupyter using :
+Then, after moving into the `/BzzML` folder just created, start Jupyter using :
 
 	$ jupyter notebook
 
@@ -44,7 +49,7 @@ if you are a Windows user.
 
 This should open up your browser (if it doesn't, visit [127.0.0.1:8888](http://127.0.0.1:8888/tree)), and you should see Jupyter's tree view, with the contents of the current directory.
 
-**If you are not familiar with Jupyter Notebooks**, the most recent [release](https://github.com/adepreis/bzz-ml-project/releases) includes the corresponding `.py` files.
+**If you are not familiar with Jupyter Notebooks**, the most recent [release](https://github.com/adepreis/BzzML/releases) includes the corresponding `.py` files.
 
 ---
 
@@ -59,7 +64,7 @@ This should open up your browser (if it doesn't, visit [127.0.0.1:8888](http://1
 
 In the `/data` folder, you can find ... <!-- are we allowed to share dataset or should we ask the user to download it by itself ? (requires a Kaggle account) --> ?
 
-The used image dataset has been shared by [Ivan Felipe Rodriguez](kaggle.com/ivanfel) under Honey Bee pollen [kaggle repository](https://www.kaggle.com/ivanfel/honey-bee-pollen) in the framework of the following publication :
+The used image dataset has been shared by [Ivan Felipe Rodriguez](kaggle.com/ivanfel) under _Honey Bee pollen_ [kaggle repository](https://www.kaggle.com/ivanfel/honey-bee-pollen) in the framework of the following publication :
 
 <!-- If you publish work based on this dataset, please cite the following publication: -->
 
