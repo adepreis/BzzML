@@ -8,7 +8,7 @@
 
 - [Working guide for the project](./doc/guide-projet.pdf) :fr:
 
-The subject has been chosen by the students.
+The subject has been chosen by the students. The unsupervised learning model too..
 
 All remaining bugs are listed [here](https://github.com/adepreis/BzzML/issues).
 
@@ -35,7 +35,7 @@ Here are some instructions on how to get the development env running.
 
 First, clone this repository with the following command :
 
-	`git clone https://github.com/adepreis/BzzML`
+	$ git clone https://github.com/adepreis/BzzML
 
 Then, after moving into the `/BzzML` folder just created, start Jupyter using :
 
