@@ -23,6 +23,7 @@ Things you need to install the project :
 - [Jupyter](https://jupyter.org)
 - [Python 3](https://www.python.org/downloads)
 	- [Scikit-Learn](http://scikit-learn.org) library
+	- [Scikit-Image](https://scikit-image.org) library
 	- [NumPy](http://numpy.org) library
 	- [Matplotlib](http://matplotlib.org) library
 	<!--
@@ -55,8 +56,8 @@ This should open up your browser (if it doesn't, visit [127.0.0.1:8888](http://1
 
 ### Authors
 
-* **Lucas B.** - *...* - @0xWryth
-* **Antonin D.** - *...* - @adepreis
+* **Lucas B.** - @0xWryth
+* **Antonin D.** - @adepreis
 
 ---
 
