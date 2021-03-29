@@ -15,7 +15,7 @@ You can find it under _Honey Bee pollen_ [kaggle repository](https://www.kaggle.
 
 Contains 714 high resolution (180x300) images of individual bees on a ramp (blue background) for pollen bearing and non-pollen bearing honey bees.
 
-![Illustration : application preview](./doc/pollenCaracterization.jpg)
+![Illustration : application preview](../doc/pollenCaracterization.jpg)
 
 Image's name prefix define their class: NPxxxx-xxx.jpg for non-pollen and Pxxxx-xxx.jpg for pollen bearing bees.
 
