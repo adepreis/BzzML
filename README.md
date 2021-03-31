@@ -54,6 +54,18 @@ This should open up your browser (if it doesn't, visit [127.0.0.1:8888](http://1
 
 ---
 
+### How it works
+
+After being pre-proceeded (reduced 15 times and "sobel-filtered"), the dataset is divided in training and validation sets before being passed to a PCA (Principal Component Analysis) and then to a Gaussian Naive Bayesian model.
+
+|   Gaussian Naive Bayesian	  	| SVC (Support Vector Classifier) |
+|:-------------------------------------:|:-------------------------------:|
+| ![ScoreGausNB](./doc/ScoreGausNB.png) | ![ScoreSVC](./doc/ScoreSVC.png) |
+
+As you can see, we obtained even better results with a Support Vector Classifier.
+
+---
+
 ### Authors
 
 * **Lucas B.** - @0xWryth
@@ -63,7 +75,7 @@ This should open up your browser (if it doesn't, visit [127.0.0.1:8888](http://1
 
 ## Dataset
 
-In the `/data` folder, you can find ... <!-- are we allowed to share dataset or should we ask the user to download it by itself ? (requires a Kaggle account) --> ?
+In the `/data` folder, you can find the `/image` folder where you should place the dataset images. <!-- I guess we are not allowed to share the dataset (requires a Kaggle account to be downloaded) and should ask the user to download it by itself. -->
 
 The used image dataset has been shared by [Ivan Felipe Rodriguez](kaggle.com/ivanfel) under _Honey Bee pollen_ [kaggle repository](https://www.kaggle.com/ivanfel/honey-bee-pollen) in the framework of the following publication :
 
