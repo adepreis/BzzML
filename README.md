@@ -60,9 +60,11 @@ After being pre-proceeded (reduced 15 times and "sobel-filtered"), the dataset i
 
 |   Gaussian Naive Bayesian	  	| SVC (Support Vector Classifier) |
 |:-------------------------------------:|:-------------------------------:|
-| ![ScoreGausNB](./doc/ScoreGausNB.png) | ![ScoreSVC](./doc/ScoreSVC.png) |
+| ![ScoreGausNB](./doc/ScoreGausNB.jpg) | ![ScoreSVC](./doc/ScoreSVC.jpg) |
 
-As you can see, we obtained even better results with a Support Vector Classifier.
+As you can see, we obtained even better results with a Support Vector Classifier. Some work has also been done on the SVC parameters :
+
+![ScoreOptimizedSVC](./doc/ScoreSVC_Opti.jpg)
 
 ---
 
