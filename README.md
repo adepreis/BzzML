@@ -6,7 +6,7 @@
 
 ## Asked work
 
-- [Working guide for the project](./doc/guide-projet.pdf) :fr:
+- [Working guide for the project](./doc/[FRENCH]_Projet_Guide.pdf) :fr:
 
 The subject has been chosen by the students. The unsupervised learning model too..
 
@@ -79,7 +79,7 @@ As you can see, we obtained even better results with a Support Vector Classifier
 
 In the `/data` folder, you can find the `/image` folder where you should place the dataset images. <!-- I guess we are not allowed to share the dataset (requires a Kaggle account to be downloaded) and should ask the user to download it by itself. -->
 
-The used image dataset has been shared by [Ivan Felipe Rodriguez](kaggle.com/ivanfel) under _Honey Bee pollen_ [kaggle repository](https://www.kaggle.com/ivanfel/honey-bee-pollen) in the framework of the following publication :
+The used image dataset has been shared by [Ivan Felipe Rodriguez](https://www.kaggle.com/ivanfel) under _Honey Bee pollen_ [kaggle repository](https://www.kaggle.com/ivanfel/honey-bee-pollen) in the framework of the following publication :
 
 <!-- If you publish work based on this dataset, please cite the following publication: -->
 
@@ -89,4 +89,4 @@ The used image dataset has been shared by [Ivan Felipe Rodriguez](kaggle.com/iva
 
 ## Documentation
 
-In the `/doc` folder, you can find ... <!-- a brief [report](./doc/report.pdf) that explains the design choices and contains screenshots... --> ?
+In the `/doc` folder, you can find a brief [report](./doc/[FRENCH]_Project_Report.pdf) that explains the design choices and contains result screenshots.
